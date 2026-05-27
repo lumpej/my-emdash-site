@@ -17,7 +17,7 @@
 		},
 	],
 	// Worker Loader for plugin sandboxing
-	"worker_loaders": [
+	// "worker_loaders": [
 		{
 			"binding": "LOADER",
 		},
